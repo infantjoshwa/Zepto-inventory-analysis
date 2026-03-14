@@ -58,10 +58,4 @@ Data Visualization
 📷 Dashboard Preview
 ()
 ![Zepto Inventory Dashboard](dashboard.png)
-🚀 How to Use
-Download the .pbix file from this repository.
-Open it using Power BI Desktop.
-Use slicers to filter by:
-Product Name
-Category
-Stock
+
